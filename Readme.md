@@ -8,9 +8,10 @@ _Cursiva_
 
 __Negrita__
 
-- Lista1
-- Lista2
+- Lista1[^1].
+- Lista2[^2].
 + Lista3
+* Lista4
 
 1. Lista1
 1. Lista2
