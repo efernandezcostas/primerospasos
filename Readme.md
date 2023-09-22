@@ -4,7 +4,7 @@ git readme
 
 > Cita
 
-_ Cursiva _
+_Cursiva_
 
-__ Negrita __
+__Negrita__
 
